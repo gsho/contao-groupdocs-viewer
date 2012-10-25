@@ -1,17 +1,18 @@
 GROUPDOCS VIEWER
 
-GroupDocs Viewer plugin for Concrete5
+GroupDocs Viewer plugin for Contao
 
-With GroupDocs Viewer plugin for Radiant CMS you can easily view on website PDF's, Word documents, Excel documents, Powerpoint documents and more with the GroupDocs Viewer tool, directly from within your Concrete5 website.
+With GroupDocs Viewer plugin for Radiant CMS you can easily view on website PDF's, Word documents, Excel documents, Powerpoint documents and more with the GroupDocs Viewer tool, directly from within your Contao website.
 
 INSTALLATION INSTUCTIONS
 
-UnZIP the file and upload the whole "groupdocs_viewer" directory, in "groupdocs_viewer_1.2.zip" to the /packages folder in your concrete5 setup on your webserver.
+1. To allow GroupDocs <iframe> to appear go to Admin > Setting > Allowed HTML tags and just add <iframe> at the end
+2. Place "groupdocs_viewer" in site/system/modules
+3. Then go to Admin > System >  Extension manager > Update database and update "tl_gdv" table
 
-Then go to Admin panel, then "Dashboard", find "Add Functionality" and you would be able to see your plugin in the list of "Awaiting Installation", press "Install".
+UNINSTALL PLUGIN
 
-    if you will get - "Fatal error: Block::getInstance()" error, try to Clear and Disable Caching.
-    if concrete5 asking you to register on their website anyway, before installing add-on, watch this (http://www.youtube.com/watch?v=Pazc65agub0) bearing in mind that there are TWO types of add-on installations, one is via their website, second via zip folder from your computor
+Just remove "groupdocs_viewer" in modules
 
 
 
