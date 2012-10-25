@@ -2,7 +2,7 @@ GROUPDOCS VIEWER
 
 GroupDocs Viewer plugin for Contao
 
-With GroupDocs Viewer plugin for Radiant CMS you can easily view on website PDF's, Word documents, Excel documents, Powerpoint documents and more with the GroupDocs Viewer tool, directly from within your Contao website.
+With GroupDocs Viewer plugin for Contao you can easily view on website PDF's, Word documents, Excel documents, Powerpoint documents and more with the GroupDocs Viewer tool, directly from within your Contao website.
 
 INSTALLATION INSTUCTIONS
 
@@ -20,7 +20,7 @@ Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs
 
     Annotate PDF, Word, Excel, Powerpoint and Images with GroupDocs Viewer
     Download Viewer plugin package here
-    Embed DOC, DOCX, PDF Viewer in your Radiant CMS website
-    See source code for GroupDocs Viewer plugin for Radiant CMS
+    Embed DOC, DOCX, PDF Viewer in your Contao website
+    See source code for GroupDocs Viewer plugin for Contao
 
 Created by GroupDocs Marketplace Team.
