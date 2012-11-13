@@ -50,7 +50,7 @@ public function javaScriptFileID($strContent, $strTemplate)
 					var btn=document.createElement('input');
 					btn.type = 'button';
 					btn.id = 'groupdocsv'
-					btn.value = 'Insert GroupDocs File';
+					btn.value = 'Embed GroupDocs Viewer';
 					btn.onclick = function() { insertGroupDocsIframe(); };
 					insertAfter(leg, btn);
 				},500);
