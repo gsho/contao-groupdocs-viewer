@@ -28,4 +28,4 @@ With GroupDocs Viewer plugin for Contao you can easily [view PDF's](http://group
 
 ###ChangeLog
 2012-11-30
-1. To inquiry the new parameter "referer" is added. This parameter will send a CMS information such as CMS Name and Version.
+1.  Client CMS name tracking was added(referer parameter in the URL).
