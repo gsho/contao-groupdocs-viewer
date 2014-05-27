@@ -23,7 +23,7 @@ With GroupDocs Viewer plugin for Contao you can easily [view PDF's](http://group
 * [Embed DOC, DOCX, PDF Viewer in your Radiant CMS website] (http://ext.radiantcms.org/extensions/294-groupdocs-viewer)
 * [See source code for GroupDocs Viewer plugin for Contao CMS](https://github.com/groupdocs/contao-groupdocs-viewer-source)
 
-###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
+###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/plugins).
 
 ###ChangeLog
 2012-11-30
